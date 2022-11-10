@@ -20,6 +20,10 @@ public class EmployeeDetails {
 		System.out.println("Employee mobile: 8939278836");
 	}
 	
+	private void empId() {
+		System.out.println("Employee id: 1234");
+	}
+	
 		//  main method
 	public static void main(String[] args) {
 		//             obj/ref
