@@ -20,6 +20,10 @@ public class EmployeeDetails {
 		System.out.println("Employee mobile: 8939278836");
 	}
 	
+	private void empAdd() {
+		System.out.println("Chennai-OMR");
+	}
+	
 		//  main method
 	public static void main(String[] args) {
 		//             obj/ref
